@@ -1,0 +1,28 @@
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project1\bin\Debug\Project1.exe.config
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project1\bin\Debug\Project1.exe
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project1\bin\Debug\Project1.pdb
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project1\obj\Debug\MainWindow.baml
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project1\obj\Debug\MainWindow.g.cs
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project1\obj\Debug\App.g.cs
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project1\obj\Debug\Project1_MarkupCompile.cache
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project1\obj\Debug\Project1.g.resources
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project1\obj\Debug\Project1.Properties.Resources.resources
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project1\obj\Debug\Project1.csproj.GenerateResource.Cache
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project1\obj\Debug\Project1.exe
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project1\obj\Debug\Project1.pdb
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Project1\bin\Debug\Project1.exe.config
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Project1\bin\Debug\Project1.exe
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Project1\bin\Debug\Project1.pdb
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Project1\bin\Debug\Stoichiometry.dll
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Project1\bin\Debug\Stoichiometry.pdb
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Project1\obj\Debug\MainWindow.baml
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Project1\obj\Debug\MainWindow.g.cs
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Project1\obj\Debug\App.g.cs
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Project1\obj\Debug\Project1_MarkupCompile.cache
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Project1\obj\Debug\Project1.g.resources
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Project1\obj\Debug\Project1.Properties.Resources.resources
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Project1\obj\Debug\Project1.csproj.GenerateResource.Cache
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Project1\obj\Debug\Project1.exe
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Project1\obj\Debug\Project1.pdb

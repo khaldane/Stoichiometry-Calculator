@@ -1,0 +1,5 @@
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Stoichiometry\bin\Debug\Stoichiometry.dll
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Stoichiometry\bin\Debug\Stoichiometry.pdb
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Stoichiometry\bin\Debug\Stoichiometry.tlb
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Stoichiometry\obj\Debug\Stoichiometry.dll
+E:\School\Semester 5\Component-based Programming .NET\Project 1\Project 1\Stoichiometry\obj\Debug\Stoichiometry.pdb
